@@ -1,0 +1,30 @@
+body{
+  background-color: #c2c3c4;
+}
+
+.style-none {
+  list-style: none;
+}
+.gtop-button {
+  margin-left: 8rem;
+  color: black;
+}
+.nav-item {
+  display: inline;
+  padding: 0.5rem;
+}
+.nav-link{
+  display: inline-block;
+  margin: 0.5rem 1rem 1rem 0;
+
+  color: black;
+}
+
+/* Header Section  */
+
+
+
+/* Header Buttons  */
+
+
+/* Header Section  */
